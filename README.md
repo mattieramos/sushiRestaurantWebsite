@@ -1,4 +1,4 @@
-Website for Sushi website created in basic HTML and CSS with CSS Animations using AOS. 
+Website for Sushi Restaurant created in basic HTML and CSS with CSS Animations using AOS. 
 
 View deployed website here: https://sushi-restaurant-matt-ramos.netlify.app/
 
